@@ -1,0 +1,6 @@
+2020-11-09T16:54:57.3558613+01:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2020-11-09T16:54:57.3631585+01:00  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2020-11-09T16:54:57.3661590+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-11-09T16:54:57.3686799+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-11-09T16:54:57.3710332+01:00  [INF] Content root path: "C:\Users\hamid\OneDrive\Dokumenter\Webappoblig1-webappv1\Oblig1" (b5d60022)
+2020-11-09T16:55:20.7189047+01:00  [INF] Application is shutting down... (90f52c38)
